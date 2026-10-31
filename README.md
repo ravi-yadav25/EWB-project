@@ -144,7 +144,7 @@ The workbook requires the following tests. Use the linked evidence to review the
 
 ## 📄 Project Report
 
-**[View the final project report](report/YourName_EWB_VPC_Peering.pdf)**
+**[View the final project report](report/EWB_VPC_Peering_final.pdf)**
 
 Replace the link above with the actual path and exact filename of your uploaded PDF. The report includes implementation details, resource inventory, annotated screenshots, test results, explanations and cleanup evidence.
 
