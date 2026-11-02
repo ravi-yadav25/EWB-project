@@ -104,7 +104,7 @@ The workbook requires the following tests. Use the linked evidence to review the
 <details>
 <summary><b>Network setup: VPCs, subnets, Internet Gateway and routes</b></summary>
 
-- [VPC configuration](screenshots/01-Network/VPCs.png)
+- [VPC configuration](VPC ACTIVE.png)
 - [Subnet configuration](screenshots/01-Network/Subnets.png)
 - [Internet Gateway](screenshots/01-Network/Internet-Gateway.png)
 - [Route tables](screenshots/01-Network/Route-Tables/)
