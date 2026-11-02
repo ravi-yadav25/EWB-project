@@ -104,35 +104,24 @@ The workbook requires the following tests. Use the linked evidence to review the
 <details>
 <summary><b>Network setup: VPCs, subnets, Internet Gateway and routes</b></summary>
 
-- [VPC configuration](VPC ACTIVE.png)
-- [Subnet configuration](screenshots/01-Network/Subnets.png)
-- [Internet Gateway](screenshots/01-Network/Internet-Gateway.png)
-- [Route tables](screenshots/01-Network/Route-Tables/)
+- [VPC configuration](VPCACTIVE.png)
+- [Subnet configuration](SUBNETACTIVE.png)
+- [Internet Gateway](InternetGateway.png)
+- [Route tables](Routestables.png)
 
 </details>
 
 <details>
 <summary><b>EC2 instances and security groups</b></summary>
 
-- [EC2 instances](screenshots/02-EC2/Instances.png)
-- [Instance IP details](screenshots/02-EC2/Instance-IP-Details/)
-- [Bastion security group](screenshots/03-Security-Groups/Bastion-SG.png)
-- [App-A security group](screenshots/03-Security-Groups/App-A-SG.png)
-- [App-B security group](screenshots/03-Security-Groups/App-B-SG.png)
+- [EC2 instances + Security Groups](Instances_Security_groupes.png)
 
 </details>
 
 <details>
 <summary><b>Peering and connectivity tests</b></summary>
 
-- [Active peering connection](screenshots/04-Peering/Active-Peering.png)
-- [Baseline failure](screenshots/05-Connectivity-Tests/Baseline-Failure.png)
-- [Forward ping](screenshots/05-Connectivity-Tests/Forward-Ping.png)
-- [Reverse ping](screenshots/05-Connectivity-Tests/Reverse-Ping.png)
-- [Private SSH](screenshots/05-Connectivity-Tests/Private-SSH.png)
-- [Controlled failure](screenshots/05-Connectivity-Tests/Controlled-Failure.png)
-- [Recovery](screenshots/05-Connectivity-Tests/Recovery.png)
-
+- [Active peering connection](Peering_Connection.png)
 </details>
 
 <details>
